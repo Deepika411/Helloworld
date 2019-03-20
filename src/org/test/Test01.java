@@ -10,4 +10,8 @@ private void add(int a,float b) {
 	System.out.println("add nos");
 
 }
+private void sub() {
+	System.out.println("methods deleted here");
+
+}
 }
