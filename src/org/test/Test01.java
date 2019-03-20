@@ -10,4 +10,16 @@ private void add(int a,float b) {
 	System.out.println("add nos");
 
 }
+private void div() {
+	System.out.println("divide");
+
+}
+private void addition() {
+	// TODO Auto-generated method stub
+
+}
+private void dropdown() {
+	// TODO Auto-generated method stub
+
+}
 }
