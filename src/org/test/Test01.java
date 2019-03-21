@@ -10,7 +10,6 @@ private void add(int a,float b) {
 	System.out.println("add nos");
 
 }
-<<<<<<< HEAD
 private void div() {
 	System.out.println("divide");
 
@@ -21,10 +20,11 @@ private void addition() {
 }
 private void dropdown() {
 	// TODO Auto-generated method stub
-=======
+}
 private void sub() {
 	System.out.println("methods deleted here");
->>>>>>> 2c1f06d0a83f799b5ee524c87307e1ce40df00ac
-
+}
+private void add() {
+	System.out.println("methods added");
 }
 }
